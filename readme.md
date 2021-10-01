@@ -1,6 +1,6 @@
 # Lâmpada com javascript Puro!
 
-### Este é um pequeno projeto que eu criei, uma lâmpada funcional que você pode **Ligar**, **Desligar** ou **Quebrar a lâmpada** (Com um duplo click).
+### Este é um pequeno projeto que eu criei, uma lâmpada funcional que você pode *ligar*, *desligar* ou *quebrar a lâmpada* (com um duplo click).
 
 ## Tecnologias usadas 
 
