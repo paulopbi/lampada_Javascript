@@ -1,22 +1,26 @@
-# The Vanilla JS Lamp! - Lâmpada com JS Puro!
+# Lâmpada com javascript Puro!
 
-## Using **JavaScript**, **Css** and **Html**.
+### Este é um pequeno projeto que eu criei, uma lâmpada funcional que você pode **Ligar**, **Desligar** ou **Quebrar a lâmpada** (Com um duplo click).
 
-### English:
+## Tecnologias usadas 
 
-* This is a small project that i created a functional lamp that you can **Turn On**, **Turn Off** or **Broke it** (with double click).
+- ***HTML***
+  
+- ***CSS***
 
-* In this project i've learned a bit more about programming logic skills.
+- ***Javascript***
+ 
+## O que eu aprendi nesse projeto?
 
-## Usando **JavaScript**, **Css** e **Html**
 
-### Português - Brasil:
+* Nesse projeto eu aprendi um pouco mais sobre lógica de programação em javascript.
+* Como alterar fotos quando clicado em javascript.
+* Event Listeners.
+* Eventos de mouse.
+* Funções.
+* Variaveis.
 
-* Este é um pequeno projeto que eu criei, uma lâmpada funcional que você pode **Ligar**, **Desligar** ou **Quebrar a lâmpada** (Com um duplo click).
-
-* Nesse projeto eu aprendi um pouco mais sobre lógica de programação.
-
-## Follow Me / Me Segue:
+## Minhas redes sociais
 
 * [Instagram](https://www.instagram.com/paulopbi_/)
 
