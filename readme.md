@@ -24,6 +24,6 @@
 
 * [Instagram](https://www.instagram.com/paulopbi_/)
 
-* [Linkedin](https://www.linkedin.com/in/paulo-victor-silva-rosa-2179a8215/)
+* [Linkedin](https://www.linkedin.com/in/paulopbi/)
 
-* [Github](https://github.com/Paulpbi)
+* [Github](https://github.com/paulopbi)
